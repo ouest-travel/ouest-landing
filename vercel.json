@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/privacy", "destination": "https://links.ouest.travel/privacy" },
+    { "source": "/support", "destination": "https://links.ouest.travel/support" },
+    { "source": "/logo.png", "destination": "https://links.ouest.travel/logo.png" }
+  ]
+}

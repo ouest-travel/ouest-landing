@@ -36,6 +36,8 @@ export function Footer() {
         <div className="flex font-['Gesta:Light',sans-serif] gap-[27px] text-[14px]">
           <a href="https://www.instagram.com/ouesttimmy" target="_blank" rel="noopener noreferrer" className="hover:opacity-60">Instagram</a>
           <a href="https://x.com/ouestapp" target="_blank" rel="noopener noreferrer" className="hover:opacity-60">Twitter/X</a>
+          <a href="/privacy" className="hover:opacity-60">Privacy</a>
+          <a href="/support" className="hover:opacity-60">Support</a>
         </div>
       </div>
       
