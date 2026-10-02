@@ -2,6 +2,7 @@
   "rewrites": [
     { "source": "/privacy", "destination": "https://links.ouest.travel/privacy" },
     { "source": "/support", "destination": "https://links.ouest.travel/support" },
-    { "source": "/logo.png", "destination": "https://links.ouest.travel/logo.png" }
+    { "source": "/logo.png", "destination": "https://links.ouest.travel/logo.png" },
+    { "source": "/.well-known/apple-app-site-association", "destination": "https://links.ouest.travel/.well-known/apple-app-site-association" }
   ]
 }
